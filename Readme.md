@@ -14,4 +14,5 @@ Open index.html in any browser.
 
 ## Screenshot
 
-(Add screenshot here)
+<img width="1710" height="1107" alt="Screenshot 2026-01-30 at 19 59 47" src="https://github.com/user-attachments/assets/1aa950bc-bafa-4b86-8a08-7eb30ef444d9" />
+
